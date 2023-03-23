@@ -1,5 +1,4 @@
-# Ping-pong-game-python-
-
+# Ping-pong-game-python- class Ball
 
 from turtle import Turtle
 
